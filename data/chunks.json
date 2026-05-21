@@ -1,0 +1,14 @@
+[
+  {
+    "chunk_id": "chunk_1",
+    "content": "Chương trình thực tập AI Level 1 tập trung vào Python, Prompt Engineering, Gemini API, RAG cơ bản và đánh giá mô hình.\nỨng viên cần hoàn thành một mini POC về hỏi đáp tài liệu bằng RAG. POC cần có source code, README, eval set và report.\nTiêu chí đánh giá gồm accuracy, hallucination rate, latency và"
+  },
+  {
+    "chunk_id": "chunk_2",
+    "content": "h giá gồm accuracy, hallucination rate, latency và cost per query.\nỨng viên nên biết sử dụng GitHub, viết tài liệu kỹ thuật cơ bản và trình bày demo ngắn trong 2-4 phút.\nTrong quá trình thực tập, ứng viên cần biết cách thử nghiệm nhiều phiên bản prompt, so sánh kết quả và ghi lại nhận xét.\nMột AI co"
+  },
+  {
+    "chunk_id": "chunk_3",
+    "content": "pt, so sánh kết quả và ghi lại nhận xét.\nMột AI component đạt yêu cầu cần chạy được, có dữ liệu test, có báo cáo đánh giá và có hướng cải thiện rõ ràng."
+  }
+]
