@@ -5,10 +5,10 @@
   },
   {
     "chunk_id": "chunk_2",
-    "content": "h giá gồm accuracy, hallucination rate, latency và cost per query.\nỨng viên nên biết sử dụng GitHub, viết tài liệu kỹ thuật cơ bản và trình bày demo ngắn trong 2-4 phút.\nTrong quá trình thực tập, ứng viên cần biết cách thử nghiệm nhiều phiên bản prompt, so sánh kết quả và ghi lại nhận xét.\nMột AI co"
+    "content": "t và report.\nTiêu chí đánh giá gồm accuracy, hallucination rate, latency và cost per query.\nỨng viên nên biết sử dụng GitHub, viết tài liệu kỹ thuật cơ bản và trình bày demo ngắn trong 2-4 phút.\nTrong quá trình thực tập, ứng viên cần biết cách thử nghiệm nhiều phiên bản prompt, so sánh kết quả và gh"
   },
   {
     "chunk_id": "chunk_3",
-    "content": "pt, so sánh kết quả và ghi lại nhận xét.\nMột AI component đạt yêu cầu cần chạy được, có dữ liệu test, có báo cáo đánh giá và có hướng cải thiện rõ ràng."
+    "content": "viên cần biết cách thử nghiệm nhiều phiên bản prompt, so sánh kết quả và ghi lại nhận xét.\nMột AI component đạt yêu cầu cần chạy được, có dữ liệu test, có báo cáo đánh giá và có hướng cải thiện rõ ràng."
   }
 ]

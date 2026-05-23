@@ -38,7 +38,7 @@ def save_chunks(chunks, output_path: str):
 
 if __name__ == "__main__":
     text = load_text("data/sample_document.txt")
-    chunks = split_text(text, chunk_size=300, overlap=50)
+    chunks = split_text(text, chunk_size=300, overlap=75)
     save_chunks(chunks, "data/chunks.json")
 
     print(f"Đã tạo {len(chunks)} chunks.")
